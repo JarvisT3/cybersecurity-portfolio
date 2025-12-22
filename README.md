@@ -1,2 +1,11 @@
 # cybersecurity-portfolio
 Professional cybersecurity portfolio
+
+My passion for cybersecurity spawned from previous experiences in the Marine Corps. Before retirement my line of work dealt with advanced technological capabilities and how they're weaponized against the US military assets and environments. The moment I started working with single chip computing devices and development boards to develop tools for covering capability gaps it got me hooked on the how, why, and how do we stop this about all things behind the scenes. That spun me into a frenzy of tool creation, researching, and discovering how vast of a landscape there exists for bad actors and things that go bump in the night. 
+
+After military retirement I decided to take a formal approach to learning cybersecurity skills and ultimately chose SANS Technolgy Institute for it's spectacular reputation and leading edge approach to learning. Learning has become a gravitational pull for me and I'm always seeking new information through research and emergent findings from leading security experts in our industry, like John Hammond. 
+
+What's learning without practical application but a waste..
+Thankfully SANS' predominant focus is on practical skill acquisition through practicing of the skills you're being taught. As such participation in National Cyber League CTF is one of the minimum requirements. 
+For someone newer to the industry CTF's offer a tremendous oportunity to sharpen your skills and apply what you've learned. Participating in the CTF helped me really sink my teeth into the practical side of learning curve and revealed so many realizations about my own quirks and how those can drastically shape your approaches. The beauty in this is that it helped me create my own checklists, file organization methods, note taking methods, etc. This amplified my thirst, as the more focused I became the more information I'd find, the sharper a skillset would become, and the more I was able to expound on my discoveries or create new paths to learning. 
+My skills slowly progressed as the first couple days passed and I began noticing how my change in approaches were making a difference. Changes such as identifying the best way for me to initiate a cryptographic problem or requirements to conduct a password crack.

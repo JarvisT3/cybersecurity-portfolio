@@ -1,4 +1,4 @@
-# AUTHOR'S NOTE <br?. FOR POLICY ADHERANCE REQUIREMENTS SOME ITEMS IN THIS CTF WRITE UP ARE <ins>_REDACTED_</ins>.   
+# AUTHOR'S NOTE <br/> FOR POLICY ADHERANCE REQUIREMENTS SOME ITEMS IN THIS CTF WRITE UP ARE <ins>_REDACTED_</ins>.   
 
 ## Approach Summary
 The Spring NCL CTF challenge provided an image with what appeared to be cipher text of some sort.  The intent appeared to be for decoding the ciphertext or identifying a red herring element.  At first glance it appeared to simply be a matter of decoding the symbols, possibly more tasking regarding verifying the cipher. 

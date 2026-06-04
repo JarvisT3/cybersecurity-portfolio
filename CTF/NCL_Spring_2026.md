@@ -6,16 +6,16 @@ I utilized Linux and PowerShell command line tools, online tools, image search, 
 
 # Tools & resources used 
 File
-Exiftool
-Binwalk
-Hexdump
-Identify
-Grep
-Strings
-Gimp
-Cyberchef
-Google image search / reverse image search
-Dcode.fr/pigpen-cipher
+<br/> Exiftool
+<br/> Binwalk
+<br/> Hexdump
+<br/> Identify
+<br/> Grep
+<br/> Strings
+<br/> Gimp
+<br/> Cyberchef
+<br/> Google image search / reverse image search
+<br/> redacted/redacted
 
 # Detailed techniques attempted 
 <ins>**File**</ins>

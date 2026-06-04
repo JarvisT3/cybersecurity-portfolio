@@ -46,7 +46,7 @@ Retrieves duplicate values, unknown attributes, and outputs in single-header for
 - Grep -i sky ciphertext.jpg  //case-insensitive search for a string containing ‘sky’
 	 
 <ins>**Hexdump**</ins>
-> hexdump was used to extract the hex data from the file to look for magic bytes, appended data, and confirm jpg structure markers.  After placing the hexdump results into a text file I searched for artifacts:  Magic bytes:  ff d8 ff e0 // start of image, header validation;  End of imager marker:  ff d9 // observe the presence of anomalies, artifacts AFTER the end marker. 
+> hexdump was used to extract the hex data from the file to look for magic bytes, appended data, and confirm jpg structure markers.  After placing the hexdump results into a text file I searched for artifacts:  Magic bytes:  ff d8 ff e0  //start of image, header validation;  End of imager marker:  ff d9 // observe the presence of anomalies, artifacts AFTER the end marker. 
 <br/><br/><ins>_**Commands</ins>:**_
 - Touch dorsCrypt_hexdump-X.txt  //creates text file for placing output of hexdump
 - Hexdump -X ciphertext.jpg > dorsCrypt_hexdump-X.txt  //places hexdump output into text file
@@ -70,8 +70,3 @@ Retrieves duplicate values, unknown attributes, and outputs in single-header for
 
 <ins>**Google image search / reverse image search**</ins> 
 - This reverse image search method was the most revealing in terms of providing the biggest initial clue, as it was the method that revealed the cipher is <ins>_redacted_</ins>. 
-
-<ins>**Redacted URL**</ins> 
-> Knowing the cipher, searched for a “<ins>_redacted_</ins> cipher decoder”, which took me to https://www.redacted/redacted.  This is where I thought for sure I was going to solve it and I was able to make out a handful of words but kept getting hung up on the “F” looking character.  I tried multiple times to just use a few characters to make sure I was using the right variant and mapping rules, re-verifying back and forth with any internet searches on <ins>_redacted_</ins> to see if stories of hers would reveal something extra I needed to do.  Well, I discovered after the game was over, when I ran the image through reverse search and enabled AI, I found my mistake – the image needed to be turned 180 degrees.  
-# Findings / evidence 
-> The CLI commands and cyberchef analysis turned up empty, although I learned more about image analysis using CLI tools, so something was garnered from my efforts.  As I was attempting to decode the cipher, the “F” character continuously deceived my efforts.  Each attempted input or substitution resulted in completely different character sets for the remaining characters.  My research into Diana Dors and the Freemasons turned up nothing meaningful for deciphering the “F” character variations.
